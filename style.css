@@ -113,7 +113,11 @@ body {
 .skill-css {
   background-image: url("img/icon-css.svg");
 }
-
+.skills {
+  max-width: 928px;
+  margin: 0 auto;
+  padding: 0 16px;
+}
 .level {
   margin: 4px 0 16px;
   padding: 0;
